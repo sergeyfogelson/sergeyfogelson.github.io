@@ -13,7 +13,7 @@ author:
 
 # Site settings
 title: Sergey Fogelson
-description: Ya Boy Serge
+description: Data Scientist and Educator
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sergeyfogelson.github.io" # the base hostname & protocol for your site
