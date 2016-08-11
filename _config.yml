@@ -27,12 +27,7 @@ kramdown:
   input: GFM
 
 # Google analytics
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-82380002-1'
-  getclicky :
-    site_id :
+google_analytics: UA-82380002-1
 
 # SEO tags
 
