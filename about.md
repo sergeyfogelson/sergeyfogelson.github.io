@@ -12,6 +12,6 @@ If you're curious about learning a bit of data science, you can take the course 
 </div>
 
 
-Im available for part-time analytical and content-based consultiong, so if you're interested, reach out.
+Im available for part-time analytical and content-based consulting, so if you're interested, reach out.
 
 Thanks for reading!
