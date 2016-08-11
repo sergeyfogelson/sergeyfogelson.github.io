@@ -1,0 +1,43 @@
+# Welcome to Jekyll!
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+relative_permalinks: false
+
+# About/contact
+author:
+  name: Sergey Fogelson
+  email: sergeyfogelson@gmail.com
+
+# Site settings
+title: Sergey Fogelson
+description: Ya Boy Serge
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sergeyfogelson.github.io" # the base hostname & protocol for your site
+github_username:  sergeyfogelson
+paginate: 1
+
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
+# Google analytics
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-82380002-1'
+  getclicky :
+    site_id :
+
+# SEO tags
+
+gems:
+  - jekyll-seo-tag
+
+# Custom vars
+version: 1.0.0
